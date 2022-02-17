@@ -4,7 +4,9 @@
 
 ![Photo by Startup Stock Photos from Pexels](startup-photo.jpg)
 
-It was created right at the beggining of the project.
+Go to the [Honey](https://github.com/rojberr/honey) project. Download it and lauch.
+It will host the API under: localhost:8080
+Use this adress to communicate with the API. The details are included in Swagger documentation.
 
 This Honey API Specification fives a standard and easy way describing RESTful
 Honey application, that anyone can call, modify or use. It documents the use of the APIs.
