@@ -2,12 +2,12 @@
 
 **This is a Swagger API documentation for [Honey](https://github.com/rojberr/honey) project.**
 
-![](startup-photo.jpg)
+![Photo by Startup Stock Photos from Pexels](startup-photo.jpg)
 
 It was created right at the beggining of the project.
 
 This Honey API Specification fives a standard and easy way describing RESTful
-Honey application, that anyone can call them or build his own modifications that use the APIs.
+Honey application, that anyone can call, modify or use. It documents the use of the APIs.
 
 This page can also be used as a perfect example of how to host Swagger Docu on your Github using
 Github pages. Feel free to copy and modify!
