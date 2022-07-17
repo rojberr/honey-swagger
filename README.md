@@ -1,4 +1,4 @@
-# honey-swagger
+# honey-swagger - DEPRECATED
 
 https://rojberr.github.io/honey-swagger/
 
